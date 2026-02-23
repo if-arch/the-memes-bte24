@@ -1,2 +1,2 @@
-# BalingoBalingas-bte24
+# Duulingo Gangsters-bte24
 grup upgift
