@@ -1,2 +1,2 @@
-# Duulingo Gangsters-bte24
+# Duolingo Gangsters-bte24
 grup upgift
