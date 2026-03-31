@@ -76,13 +76,11 @@ background-color: black;
     background-color: blue; 
 }
 
-/*#grid{
-    width:  100%;
-    height: 100%;
-    display:grid;
-grid-template-columns: 50% 40% 10%;
-grid-template-rows: 12% 45% 20%;
-grid-template-areas: "h h h"
-                     "a a a"; 
+/*Ovan här blir del 1. Under här är del 2.*/
 
-}/*
+
+/* Ovan här är del 2. Under här är del 3.*/
+
+
+
+
