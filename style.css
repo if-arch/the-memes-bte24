@@ -46,26 +46,17 @@ background-color: black;
 #box2{
 
     border-radius: 10px;
-    border-style: outset;
+    border-style:unset;
+    border-color: khaki;
     position: relative;
-    height: 400px;
-    width: 400px;
+    height: 750px;
+    width: 800px;
   
     background-color: rgb(43, 226, 58);
 
 }
 
-#box3{
-  
-    border-style: outset;
-    position: relative;
-    height: 400px;
-    width: 400px;
-   
-    border-radius: 10px;
-    background-color: rgb(43, 153, 226);
-   
-}
+
 
 
 
